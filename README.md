@@ -37,6 +37,11 @@ ou
 - ➡️ crie um novo banco de dados chamado depger
 - ➡️ dentro do banco, abra a aba importar, e importe o arquivo "GerDep.sql" que está no repositório
 
+## 🚀 Login no sistema
+
+- ➡️ Email: emailteste@gmail.com
+- ➡️ Senha: 123456789
+
 
 
 
