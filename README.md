@@ -28,7 +28,9 @@ Certifique-se de ter os seguintes softwares instalados:
 
 ## 🚀 Alterar o nome do arquivo .env.example no git bash
 
-- ➡️ cp .env.example .env ## ou altere manualmente o nome do arquivo
+- ➡️ digite o seguinte comando: cp .env.example .env
+ou
+- ➡️ altere manualmente o nome do arquivo .env
 
 ## 🚀 Dentro do phpMyAdmin
 
