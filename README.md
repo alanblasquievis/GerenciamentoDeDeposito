@@ -33,7 +33,7 @@ Certifique-se de ter os seguintes softwares instalados:
 ## 🚀 Dentro do phpMyAdmin
 
 - ➡️ crie um novo banco de dados chamado depger
-- ➡️ dentro do banco, abra a aba importar, e importe o arquivo "GerDep.sql" que está na pasta
+- ➡️ dentro do banco, abra a aba importar, e importe o arquivo "GerDep.sql" que está no repositório
 
 
 
