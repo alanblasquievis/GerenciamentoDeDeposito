@@ -7,8 +7,8 @@
 1️⃣ Clone o repositório:
 
 ## 🚀 bash
-git clone https://github.com/alanblasquievis/GerenciamentoDeDeposito.git
-cd GerenciamentoDeDeposito
+ - ➡️ git clone https://github.com/alanblasquievis/GerenciamentoDeDeposito.git
+ - ➡️ cd GerenciamentoDeDeposito
 
 ---
 
