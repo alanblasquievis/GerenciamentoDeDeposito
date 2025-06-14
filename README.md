@@ -1,8 +1,11 @@
 # 📦 Nome do Projeto
 
-*Sistema de Gerenciamento de Depósito / Aplicação Web Laravel*
+*Sistema de Gerenciamento de Depósito - Estocaí / Aplicação Web Laravel*
+## 🚀 Link do sistema hospedado: https://estocai.shop/
+- ➡️ Email: emailteste@gmail.com
+- ➡️ Senha: 123456789
 
-## ⚙️ Instalação e configuração
+## 🚀 caso queira instalar localmente
 
 1️⃣ Clone o repositório:
 
